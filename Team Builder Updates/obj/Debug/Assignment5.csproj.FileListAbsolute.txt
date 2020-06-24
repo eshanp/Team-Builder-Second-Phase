@@ -1,0 +1,17 @@
+E:\NUIG\C#Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+E:\NUIG\C#Assignment5\Assignment5\bin\Debug\Assignment5.exe
+E:\NUIG\C#Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+E:\NUIG\C#Assignment5\Assignment5\obj\Debug\Assignment5.Form1.resources
+E:\NUIG\C#Assignment5\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+E:\NUIG\C#Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.cache
+E:\NUIG\C#Assignment5\Assignment5\obj\Debug\Assignment5.exe
+E:\NUIG\C#Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+E:\NUIG\Assignment5copy\bin\Debug\Assignment5.exe.config
+E:\NUIG\Assignment5copy\bin\Debug\Assignment5.exe
+E:\NUIG\Assignment5copy\bin\Debug\Assignment5.pdb
+E:\NUIG\Assignment5copy\obj\Debug\Assignment5.csprojAssemblyReference.cache
+E:\NUIG\Assignment5copy\obj\Debug\Assignment5.Form1.resources
+E:\NUIG\Assignment5copy\obj\Debug\Assignment5.Properties.Resources.resources
+E:\NUIG\Assignment5copy\obj\Debug\Assignment5.csproj.GenerateResource.cache
+E:\NUIG\Assignment5copy\obj\Debug\Assignment5.exe
+E:\NUIG\Assignment5copy\obj\Debug\Assignment5.pdb
